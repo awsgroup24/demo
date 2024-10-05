@@ -42,6 +42,6 @@ http.Handle("/foo", fooHandler)
 - high number of people in area
 - that is all of it
 
-The back to top[link back](#the-first-outputi)
+The back to top[link back](#the-first-output)
 
 go google [google](https://www.google.com/)
