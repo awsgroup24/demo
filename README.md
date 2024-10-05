@@ -2,7 +2,8 @@
 
 # The first output 
 
-The color `rgb(123,78,244)`
+images ![This is image as others image](https://en.m.wikipedia.org/wiki/File:Mangos_-_single_and_halved.jpg)
+
 
 ```go
 package main
