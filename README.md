@@ -2,8 +2,16 @@
 ## Head 2
 ### Head 3
 
+~~keep delete all of thees staffs~~
 
+***This is italic bolded***
 
+**The nested bolded*italic* as lag behind**
+
+<sub>Subscript words</sub>
+<sup>This is supper script one</sup>
+
+> This is the text that i quote them in markup
 
 
 ## aws group 
