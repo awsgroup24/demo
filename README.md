@@ -2,7 +2,7 @@
 
 # The first output 
 
-images ![This is image as others image](https://en.m.wikipedia.org/wiki/File:Mangos_-_single_and_halved.jpg)
+images ![This is image as others image](mango.jpg)
 
 
 ```go
