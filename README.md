@@ -1,15 +1,4 @@
-```html
-<!DOCTYPE encoding="utf8">
-<html>
-<head>
-<title>Document</title>
-</head>
-<body>Hellow world<p>
-</p>
-</body>
-</html>
-
-```
+The color `rgb(123,78,244)`
 
 ```go
 package main
