@@ -4,7 +4,7 @@
         + grandchild
             + admin
 
-- [x] #4
+- [x] https://github.com/awsgroup24/demo/issues/4
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
