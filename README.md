@@ -1,7 +1,8 @@
 
 ```` mermaid
-pie title NETFLIX
-         "Time spent looking for movie" : 90
-         "Time spent watching it" : 10
+pie
+"Dogs" : 386
+"Cats" : 85.9
+"Rats" : 15
 
 ```
