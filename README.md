@@ -1,6 +1,6 @@
 
 ```mermaid
-graph TD;
+flowcharch LR;
     User --> WebApp;
     WebApp --> Backend;
     Backend --> Database;
