@@ -6,7 +6,8 @@
 
 - [x] #4
 - [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 ```go
 package main
