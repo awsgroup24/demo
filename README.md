@@ -1,4 +1,14 @@
+# Ordered list
+1. ashura
+2. Amina
+3. Warda
+4. Hussein
 
+# Ordered
++ zulfa
++ azizi
++ twink
++ kings
 
 # The first output 
 
