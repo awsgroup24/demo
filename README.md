@@ -1,8 +1,53 @@
+<<<<<<< HEAD
 # Head 1
 ## Head 2
 ### Head 3
 
 
+=======
+# Nested tree
++ parent
+    + child
+        + grandchild
+            + admin
+
+- [x] https://github.com/awsgroup24/demo/issues/4
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
+```go
+package main
+
+import (
+"fmt"
+"log"
+)
+
+func main() {
+http.Handle("/foo", fooHandler)
+
+    http.HandleFunc("/bar", func(w http.ResponseWriter, r *http.Request) {
+        fmt.Fprintf(w, "Hello, %q", html.EscapeString(r.URL.Path))
+    })
+
+    log.Fatal(http.ListenAndServe(":8080", nil))
+
+}
+```
+
+~~keep delete all of thees staffs~~
+
+***This is italic bolded***
+
+**The nested bolded*italic* as lag behind**
+
+<sub>Subscript words</sub>
+<sup>This is supper script one</sup>
+
+> This is the text that i quote them in markup
+
+>>>>>>> 4bf70d15562ceb914a7b2e036df83906c6b1637b
 
 ## aws group 
 
@@ -11,3 +56,7 @@
 - hight rate of shared data
 - high number of people in area
 - that is all of it
+
+The back to top[link back](#the-first-output)
+
+go google [google](https://www.google.com/)
