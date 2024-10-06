@@ -1,14 +1,8 @@
-# Ordered list
-1. ashura
-2. Amina
-3. Warda
-4. Hussein
-
-# Ordered
-+ zulfa
-+ azizi
-+ twink
-+ kings
+# Nested tree
++ parent
+    + child
+        + grandchild
+            + admin
 
 # The first output 
 
